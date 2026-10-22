@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2320" height="1370" viewBox="0 0 2320 1370">
+<rect width="2320" height="1370" fill="#f5f5f2"/>
+<rect x="20" y="20" width="456" height="1040" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="42" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">2. ПРОБЛЕМА</text>
+<rect x="40" y="98.39999999999998" width="416" height="125.6" fill="#fff09a"/>
+<text x="58" y="114.39999999999998" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Площадке объявлений дорого</text>
+<text x="58" y="145.59999999999997" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">создавать и поддерживать</text>
+<text x="58" y="176.79999999999995" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">собственную видеоленту.</text>
+<rect x="40" y="240.0" width="416" height="125.6" fill="#fff09a"/>
+<text x="58" y="256.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Обработка, хранение и</text>
+<text x="58" y="287.2" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">воспроизведение видео требуют</text>
+<text x="58" y="318.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">отдельной инфраструктуры.</text>
+<rect x="40" y="381.6" width="416" height="125.6" fill="#fff09a"/>
+<text x="58" y="397.6" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Нужно связать просмотр роликов</text>
+<text x="58" y="428.80000000000007" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">с переходами к объявлениям и</text>
+<text x="58" y="460.0000000000001" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">сделкам.</text>
+<text x="42" y="533.2" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">СУЩЕСТВУЮЩИЕ АЛЬТЕРНАТИВЫ</text>
+<text x="42" y="575.8000000000001" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Собственная разработка, заказ</text>
+<text x="42" y="605.7" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">подрядчику, отдельный видеохостинг</text>
+<text x="42" y="635.6" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">и ручная интеграция.</text>
+<rect x="476" y="20" width="456" height="520" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="498" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">4. РЕШЕНИЕ</text>
+<rect x="496" y="98.39999999999998" width="416" height="125.6" fill="#fff09a"/>
+<text x="514" y="114.39999999999998" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Встраиваемая видеолента,</text>
+<text x="514" y="145.59999999999997" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">связанная с объявлениями</text>
+<text x="514" y="176.79999999999995" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">заказчика.</text>
+<rect x="496" y="240.0" width="416" height="94.4" fill="#fff09a"/>
+<text x="514" y="256.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">API загрузки, обработки и</text>
+<text x="514" y="287.2" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">выдачи видео.</text>
+<rect x="496" y="350.4" width="416" height="94.4" fill="#fff09a"/>
+<text x="514" y="366.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Статусы наличия, фильтры и</text>
+<text x="514" y="397.6" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">аналитика переходов.</text>
+<rect x="476" y="540" width="456" height="520" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="498" y="562" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">8. КЛЮЧЕВЫЕ МЕТРИКИ</text>
+<rect x="496" y="618.4" width="416" height="94.4" fill="#fff09a"/>
+<text x="514" y="634.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Конверсия переговоров в</text>
+<text x="514" y="665.6" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">платный пилот и договор.</text>
+<rect x="496" y="728.8" width="416" height="94.4" fill="#fff09a"/>
+<text x="514" y="744.8" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Срок интеграции и доступность</text>
+<text x="514" y="776.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">сервиса.</text>
+<rect x="496" y="839.1999999999999" width="416" height="125.6" fill="#fff09a"/>
+<text x="514" y="855.1999999999999" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Выручка по подписке,</text>
+<text x="514" y="886.3999999999999" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">удержание, CAC, LTV и</text>
+<text x="514" y="917.5999999999999" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">стоимость видеотрафика.</text>
+<rect x="932" y="20" width="456" height="1040" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="954" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">3. УНИКАЛЬНАЯ ЦЕННОСТЬ</text>
+<rect x="952" y="98.39999999999998" width="416" height="156.8" fill="#fff09a"/>
+<text x="970" y="114.39999999999998" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Видеолента для вашей</text>
+<text x="970" y="145.59999999999997" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">площадки объявлений без</text>
+<text x="970" y="176.79999999999995" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">разработки всей видеосистемы с</text>
+<text x="970" y="207.99999999999994" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">нуля.</text>
+<rect x="952" y="271.2" width="416" height="125.6" fill="#fff09a"/>
+<text x="970" y="287.2" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Объявления, пользователи и</text>
+<text x="970" y="318.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">оформление сделок остаются у</text>
+<text x="970" y="349.59999999999997" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">заказчика.</text>
+<rect x="952" y="412.79999999999995" width="416" height="125.6" fill="#fff09a"/>
+<text x="970" y="428.79999999999995" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Пилот позволяет проверить</text>
+<text x="970" y="460.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">влияние видео на обращения и</text>
+<text x="970" y="491.20000000000005" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">покупки.</text>
+<text x="954" y="564.4" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">ПОЗИЦИОНИРОВАНИЕ</text>
+<text x="954" y="607.0" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Поставщик модуля для</text>
+<text x="954" y="636.9" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">существующих площадок.</text>
+<text x="954" y="666.8" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Привлекать собственную массовую</text>
+<text x="954" y="696.6999999999999" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">аудиторию покупателей не</text>
+<text x="954" y="726.5999999999999" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">требуется.</text>
+<rect x="1388" y="20" width="456" height="520" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="1410" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">9. СКРЫТОЕ</text>
+<text x="1410" y="78.4" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">ПРЕИМУЩЕСТВО</text>
+<rect x="1408" y="134.8" width="416" height="94.4" fill="#fff09a"/>
+<text x="1426" y="150.8" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Подтверждённого преимущества</text>
+<text x="1426" y="182.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">на старте нет.</text>
+<rect x="1408" y="245.20000000000005" width="416" height="125.6" fill="#fff09a"/>
+<text x="1426" y="261.20000000000005" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Гипотеза: готовые интеграции и</text>
+<text x="1426" y="292.40000000000003" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">опыт запуска видеоленты на</text>
+<text x="1426" y="323.6" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">разных площадках.</text>
+<rect x="1388" y="540" width="456" height="520" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="1410" y="562" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">5. КАНАЛЫ</text>
+<rect x="1408" y="618.4" width="416" height="125.6" fill="#fff09a"/>
+<text x="1426" y="634.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Прямые переговоры с</text>
+<text x="1426" y="665.6" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">владельцами нишевых</text>
+<text x="1426" y="696.8000000000001" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">площадок.</text>
+<rect x="1408" y="760.0" width="416" height="94.4" fill="#fff09a"/>
+<text x="1426" y="776.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Партнёры — разработчики и</text>
+<text x="1426" y="807.2" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">интеграторы.</text>
+<rect x="1408" y="870.4000000000001" width="416" height="94.4" fill="#fff09a"/>
+<text x="1426" y="886.4000000000001" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Демонстрации, технические</text>
+<text x="1426" y="917.6000000000001" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">материалы и кейсы пилотов.</text>
+<rect x="1844" y="20" width="456" height="1040" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="1866" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">1. СЕГМЕНТЫ</text>
+<text x="1866" y="78.4" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">ПОТРЕБИТЕЛЕЙ</text>
+<rect x="1864" y="134.8" width="416" height="125.6" fill="#fff09a"/>
+<text x="1882" y="150.8" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Компании — владельцы</text>
+<text x="1882" y="182.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">площадок объявлений и</text>
+<text x="1882" y="213.2" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">нишевых маркетплейсов.</text>
+<rect x="1864" y="276.4" width="416" height="156.8" fill="#fff09a"/>
+<text x="1882" y="292.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Покупатели услуги:</text>
+<text x="1882" y="323.59999999999997" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">руководители продукта и</text>
+<text x="1882" y="354.79999999999995" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">владельцы бизнеса; участники</text>
+<text x="1882" y="386.0" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">выбора — технические команды.</text>
+<text x="1866" y="459.20000000000005" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">РАННИЕ ПОСЛЕДОВАТЕЛИ</text>
+<text x="1866" y="501.80000000000007" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Небольшие площадки с действующей</text>
+<text x="1866" y="531.7" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">аудиторией, которые хотят проверить</text>
+<text x="1866" y="561.6" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">видеопродажи и готовы к платному</text>
+<text x="1866" y="591.5" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">пилоту.</text>
+<rect x="20" y="1060" width="1140" height="290" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="42" y="1082" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">7. СТРУКТУРА ИЗДЕРЖЕК</text>
+<rect x="40" y="1138.4" width="1100" height="63.2" fill="#fff09a"/>
+<text x="58" y="1154.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Разработка, продажи, интеграция и техническая поддержка.</text>
+<rect x="40" y="1217.6000000000001" width="1100" height="63.2" fill="#fff09a"/>
+<text x="58" y="1233.6000000000001" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Хранение, обработка и доставка видео; мониторинг и инфраструктура.</text>
+<rect x="1160" y="1060" width="1140" height="290" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+<text x="1182" y="1082" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#202020" dominant-baseline="text-before-edge">6. ПОТОКИ ПРИБЫЛИ</text>
+<rect x="1180" y="1138.4" width="1100" height="63.2" fill="#fff09a"/>
+<text x="1198" y="1154.4" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Ежемесячная подписка площадки на модуль с включёнными лимитами.</text>
+<rect x="1180" y="1217.6000000000001" width="1100" height="63.2" fill="#fff09a"/>
+<text x="1198" y="1233.6000000000001" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#202020" dominant-baseline="text-before-edge">Оплата объёма хранения и видеотрафика сверх лимитов тарифа.</text>
+</svg>

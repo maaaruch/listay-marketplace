@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="952" height="440" viewBox="0 0 952 440" role="img" aria-label="Четыре экрана покупки вещи">
+<style>text{font:14px system-ui,sans-serif;fill:#222}.small{font-size:12px;fill:#555}.head{font-size:16px;font-weight:700}.label{font-weight:600}.action{font-weight:600}</style>
+<rect x="0" y="0" width="952" height="440" rx="10" fill="#f7f7f7" stroke="none"/>
+<text x="15" y="24" class="label" text-anchor="start">1. Видеолента</text>
+<rect x="15" y="38" width="214" height="386" rx="14" fill="#fff" stroke="#777"/>
+<text x="29" y="68" class="head" text-anchor="start">Листай</text>
+<text x="29" y="91" class="small" text-anchor="start">Москва · Одежда · Фильтры</text>
+<rect x="29" y="104" width="186" height="185" rx="7" fill="#eee" stroke="#bdbdbd"/>
+<text x="122.0" y="200.5" class="small" text-anchor="middle">▶  Видео вещи</text>
+<text x="29" y="314" class="label" text-anchor="start">Джинсовая куртка</text>
+<text x="29" y="337" class="" text-anchor="start">3 000 ₽</text>
+<rect x="29" y="351" width="186" height="35" rx="7" fill="#dedede" stroke="#bdbdbd"/>
+<text x="122" y="373" class="action" text-anchor="middle">Открыть карточку</text>
+<text x="29" y="408" class="small" text-anchor="start">↑ Листайте дальше</text>
+<text x="249" y="24" class="label" text-anchor="start">2. Карточка вещи</text>
+<rect x="249" y="38" width="214" height="386" rx="14" fill="#fff" stroke="#777"/>
+<text x="263" y="68" class="small" text-anchor="start">‹  В ленту</text>
+<rect x="263" y="80" width="186" height="114" rx="7" fill="#eee" stroke="#bdbdbd"/>
+<text x="356.0" y="141.0" class="small" text-anchor="middle">▶  Видео  ·  2 фото</text>
+<text x="263" y="220" class="head" text-anchor="start">Джинсовая куртка</text>
+<text x="263" y="245" class="label" text-anchor="start">3 000 ₽</text>
+<text x="263" y="269" class="small" text-anchor="start">Размер M · б/у</text>
+<text x="263" y="290" class="small" text-anchor="start">Потёртость на рукаве</text>
+<text x="263" y="313" class="small" text-anchor="start">Продавец: Анна · Москва</text>
+<rect x="263" y="326" width="186" height="35" rx="7" fill="#fff" stroke="#bdbdbd"/>
+<text x="356" y="348" class="action" text-anchor="middle">Написать продавцу</text>
+<rect x="263" y="368" width="186" height="35" rx="7" fill="#dedede" stroke="#bdbdbd"/>
+<text x="356" y="390" class="action" text-anchor="middle">Купить</text>
+<text x="483" y="24" class="label" text-anchor="start">3. Оформление</text>
+<rect x="483" y="38" width="214" height="386" rx="14" fill="#fff" stroke="#777"/>
+<text x="497" y="68" class="small" text-anchor="start">‹  К объявлению</text>
+<text x="497" y="103" class="head" text-anchor="start">Ваш заказ</text>
+<text x="497" y="139" class="label" text-anchor="start">Джинсовая куртка</text>
+<text x="497" y="161" class="small" text-anchor="start">Продавец: Анна</text>
+<rect x="497" y="182" width="186" height="68" rx="7" fill="#f2f2f2" stroke="#bdbdbd"/>
+<text x="507" y="205" class="small" text-anchor="start">К оплате</text>
+<text x="507" y="230" class="head" text-anchor="start">3 000 ₽</text>
+<text x="497" y="277" class="label" text-anchor="start">Осталось 09:58</text>
+<text x="497" y="302" class="small" text-anchor="start">О встрече договоритесь</text>
+<text x="497" y="319" class="small" text-anchor="start">с продавцом в чате.</text>
+<rect x="497" y="337" width="186" height="35" rx="7" fill="#dedede" stroke="#bdbdbd"/>
+<text x="590" y="359" class="action" text-anchor="middle">Перейти к оплате</text>
+<text x="590" y="399" class="small" text-anchor="middle">Отменить заказ</text>
+<text x="717" y="24" class="label" text-anchor="start">4. Статус заказа</text>
+<rect x="717" y="38" width="214" height="386" rx="14" fill="#fff" stroke="#777"/>
+<text x="731" y="68" class="small" text-anchor="start">‹  Мои заказы</text>
+<text x="731" y="108" class="head" text-anchor="start">✓  Заказ оплачен</text>
+<text x="731" y="139" class="small" text-anchor="start">Заказ №84</text>
+<rect x="731" y="164" width="186" height="79" rx="7" fill="#f2f2f2" stroke="#bdbdbd"/>
+<text x="741" y="193" class="label" text-anchor="start">Джинсовая куртка</text>
+<text x="741" y="220" class="" text-anchor="start">3 000 ₽</text>
+<text x="731" y="270" class="small" text-anchor="start">Следующий шаг —</text>
+<text x="731" y="289" class="small" text-anchor="start">встретиться с продавцом.</text>
+<rect x="731" y="309" width="186" height="35" rx="7" fill="#dedede" stroke="#bdbdbd"/>
+<text x="824" y="331" class="action" text-anchor="middle">Написать продавцу</text>
+<text x="731" y="367" class="small" text-anchor="start">После передачи вещи</text>
+<text x="731" y="385" class="small" text-anchor="start">подтвердите получение.</text>
+</svg>
